@@ -16,4 +16,6 @@ L’objectif était de fournir une solution intuitive, performante et centralis�
 
 ---
 
- Tu auras besoin d’installer Visual Studio 🖥️ avec les packages nécessaires, notamment .NET Core ⚙️ et C# 📝. N’oublie pas d’ajouter aussi le package responsable de la gestion de la base de données 📦🗄️, comme par exemple Entity Framework Core.
+ Tu auras besoin d’installer Visual Studio 🖥️ avec les packages nécessaires, notamment .NET Core ⚙️ et C# 📝. 
+ 
+ N’oublie pas d’ajouter aussi le package responsable de la gestion de la base de données 📦🗄️, comme par exemple Entity Framework Core.
