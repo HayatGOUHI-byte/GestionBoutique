@@ -1,5 +1,7 @@
 💻 Conception et développement d’une application desktop dédiée à la gestion complète des opérations d’un supermarché 🛒.
 
+---
+
 L’application couvre plusieurs fonctionnalités essentielles :
 
 📦 gestion des stocks et des articles,
