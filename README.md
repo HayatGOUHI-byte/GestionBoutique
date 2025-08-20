@@ -1,4 +1,11 @@
-💻 Conception et développement d’une application desktop dédiée à la gestion complète des opérations d’un supermarché 🛒.
+UI : Swing 
+
+Backend : Java (MVC).
+
+BD : MySQL + JDBC.
+
+
+Build/Deploy : jpackage (fichier exécutable).
 
 ---
 
@@ -14,13 +21,10 @@ L’application couvre plusieurs fonctionnalités essentielles :
 
 L’objectif était de fournir une solution intuitive, performante et centralisée pour optimiser les processus métier du point de vente.
 
-🛠️ Technologies utilisées : C#, ASP.NET Core, MySQL, Blazor
+
 
 ---
 
- Tu auras besoin d’installer Visual Studio 🖥️ avec les packages nécessaires, notamment .NET Core ⚙️ et C# 📝. 
- 
- N’oublie pas d’ajouter aussi le package responsable de la gestion de la base de données 📦🗄️, comme par exemple Entity Framework Core.
 
  
 <img width="904" height="501" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/bda5a0e5-55f9-4f5e-994a-bc17a12d0598" />
